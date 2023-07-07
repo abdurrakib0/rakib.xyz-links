@@ -21,9 +21,9 @@
   text-align: center;
   padding: 10px;
   font-family: Karla, sans-serif;
-  font-weight: 700;
+  font-weight: 800;
   color: #FEFFFE;
-  font-size: 20px
+  font-size: 25px
 }
 
 .profile-about {
@@ -48,7 +48,7 @@
   font-family: Karla, sans-serif;
   position: relative;
   font-size: 17px;
-  width: 680px;
+  width: 450px;
   max-width: 95%;
   transition: all .3s ease-in-out
 }
